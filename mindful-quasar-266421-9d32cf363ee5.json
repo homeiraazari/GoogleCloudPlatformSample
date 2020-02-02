@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mindful-quasar-266421",
+  "private_key_id": "9d32cf363ee53509629b2cd58cf0eb2d171be8e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCrlPhVqa+5vrup\nS0jRYrb4mMFDqMJ0pkJKHYwl+gJSu7rpDX1Hs8NqVA2Uc2vE1tTpJ7PFXjEvzWjz\nZIcoFWG5uvKVRJSOsfU+/CuzsK/pj2ewq4ZzuaeDVvL2KlvnYGi0ryk1TmWUMjoq\n+wr10ZGWQ6XYUrX3KdVnT/fD4NgFJMN8yH6iXGDHvZpZv97SXKUgVTbZpcUQO7Zu\nThhtcCE25HdNJGTZ0oMZrxd9LLkVuFxNuIvu77NP8t4m9Z9UA9C3UVoJXTadMdE7\nvwj1Lo9/+mZr8NZoeT5WvYfbKt7L0+xCNmKX2c8uIf+6BZd/bbXAotuXUaHYSMjq\n6uxwKPMbAgMBAAECgf8u5lYlNHxz4AtF6Wn+8xa0xZo+qA5iUfd4PGra1VbVT3Ma\nUtOUkpzRX8rbaAvzFJjyz4rZ2Txq0PuCeSMhX6eNhhk9h9TxZ38vn/eecbuwYr+G\nh3GUhMcFPvekiZW6QME+pAJv8n9AA74GgukpZb8m41/H71UjHXy3ElqbcaJpD59I\nX5+R4mjt/T3oa1BSOIsEVIqUqU0Rg1vOD6BvvDn/a5e+cWMIfOmmEVw9jxowPM+B\nn4UKnY/7ZJVGEOiQOkcjQmquoeF0Hjp58WdePiT81LCc3Sd7GWhc+TXOaWnueTb3\nMU57YJK7blOB5nkwNXFGZ+BtdIZ4UXI7D4kmMxkCgYEA2zc3ZEA/iCZrZNRsKEen\nXZ7dZuU716pQ6/grayFVs0D05+P4mRDjZfagW1p7R1WqyDLnP0mlrBm7QVzD/Xyy\nM1FCEcNsNj2QTG0QdbpdPVlIAciQZFQ9M/rQwWp8bysmY4oujSy4uPE5ILq9mlvU\npk4WGy6Ygi+JUXnlQbs9i2cCgYEAyF+QTeyB+ExE6Xskf3kKThS+X62SXx4iba7n\naQWt/9mGIS+IXrq4S1lwwrWsCAPblW1FpRJXkcDf4vRwYOicxq3uEuTlosaVuuHz\nmXxEnix/3f1qLlmZsXfp19s8DYG+Ru34BkjBHInWRo6ey7pR29H+NhAUQZpxcbyS\ngRR3vi0CgYAgQiPYkMvIkT7Ee63ez4yFbldOSPVhayK1VrOs9B7UXf6sERQIEkAk\nRQKb7titSqHzC+qTmZbTmIXBvJDqwGrIunBqhMNrx+twE6yUZnRKDtVVzdnRqcPH\n3mTR0YW2Jjdj9nWbOLWGIZkyg8ha6qCESIFgRp8SqUQfxTxDS/ZmiQKBgE09QVQ4\nejVruRjDpmMZFpbYujYJo6XU6PKc/IlobhV1FZZPS2Mw2P/6v1PfUixYyFmGoNUs\nB+OglO1YysUghea0f1R7NeYUZP2AQjYFSDIs9zFskXTCh1N45QSXd0PBosaWzwgl\nHYPRwm66ZY4lCY8SGMtgUV6kmVx9k3/8ktgVAoGBAJorZT/GYI6HKjn84xgOuOl6\nHP6GziUhwsyjFktDCnVX9MvVeT4THzzxBK50Yd7phu2CQ9GuGncxl2N1HrXQHt4/\nE1LXKeNQrCzGlxOBTTAHE6EF5tuv1z+nKCdm+gLBdKREmBmkKc7ttZ8WNFzCUC0V\nAAJteL+rSlNC6SRLzDS8\n-----END PRIVATE KEY-----\n",
+  "client_email": "mindful-quasar-266421@appspot.gserviceaccount.com",
+  "client_id": "104468580079053066354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mindful-quasar-266421%40appspot.gserviceaccount.com"
+}
