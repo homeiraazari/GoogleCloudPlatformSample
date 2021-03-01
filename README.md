@@ -5,7 +5,9 @@ Created a Github repository “GoogleCloudPlatformSample”
 Created "helloml" project in Google Cloud Platform
 
 •	Established SSH key to clone Github repository on GCP 
+
 •	Created a python virtual environment
+
 •	Created the required files (main.py, main_test.py, requirments.txt etc.)
 •	Created and ran Makefile to install all needed packages and dependencies
 •	Built a web app using Python’s Flask and Google App Engine in GCP using the Cloud Shell environment.
