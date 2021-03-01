@@ -1,5 +1,5 @@
 Continuous Delivery of Flask Application on Google Cloud Platform (GCP).
-#•	Created a Github repository “GoogleCloudPlatformSample”
+# •	Created a Github repository “GoogleCloudPlatformSample”
 #•	Created "helloml" project in Google Cloud Platform
 •	Established SSH key to clone Github repository on GCP 
 •	Created a python virtual environment
